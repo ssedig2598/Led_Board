@@ -1,0 +1,64 @@
+Info: Processing symbol 'C1:CAP_GRT188R61H105KE13D_MUR'.
+Info: Processing symbol 'LED12:LED_APA2107SECK/J4-PRV_KNB'.
+Info: Processing symbol 'LED11:LED_APA2107SECK/J4-PRV_KNB'.
+Info: Processing symbol 'LED10:LED_APA2107SECK/J4-PRV_KNB'.
+Info: Processing symbol 'LED9:LED_APA2107SECK/J4-PRV_KNB'.
+Info: Processing symbol 'LED8:LED_APA2107SECK/J4-PRV_KNB'.
+Info: Processing symbol 'LED7:LED_APA2107SECK/J4-PRV_KNB'.
+Info: Processing symbol 'LED6:'.
+Info: Processing symbol 'LED5:'.
+Info: Processing symbol 'LED4:'.
+Info: Processing symbol 'LED3:'.
+Info: Processing symbol 'LED2:'.
+Info: Processing symbol 'LED1:'.
+Info: Processing symbol 'C2:CC0805N_YAG'.
+Info: Processing symbol 'C3:CC0805N_YAG'.
+Changed REF** reference designator to C2.
+Changed C2 value from CC0805N_YAG to CC0805KRX7R9BB104.
+Updated C2 symbol association from  to /37430f35-d9f0-4cc3-a114-995c1e960c4f.
+Updated C2 fields.
+Updated C2 sheetname to 'Root'.
+Updated C2 sheetfile to 'Led_Board.kicad_sch'.
+Updated C2 footprint filters to 'CC0805N_YAG CC0805N_YAG-M CC0805N_YAG-L'.
+Connected C2 pin 2 to GND.
+Add net Net-(C2-Pad1).
+Connected C2 pin 1 to Net-(C2-Pad1).
+Added C2 (footprint 'CC0805N_YAG').
+Added C3 (footprint 'CC0805N_YAG').
+Changed REF** reference designator to C3.
+Changed C3 value from CC0805N_YAG to CC0805KRX7R9BB104.
+Updated C3 symbol association from  to /1e0044b6-e103-4ca2-8fa9-955a19c2f82a.
+Updated C3 fields.
+Updated C3 sheetname to 'Root'.
+Updated C3 sheetfile to 'Led_Board.kicad_sch'.
+Updated C3 footprint filters to 'CC0805N_YAG CC0805N_YAG-M CC0805N_YAG-L'.
+Add net Net-(C3-Pad1).
+Connected C3 pin 1 to Net-(C3-Pad1).
+Connected C3 pin 2 to GND.
+Connected C1 pin 2 to GND.
+Added C1 (footprint 'CAP_GRT188R61H105KE13D_MUR').
+Add net GND.
+Changed REF** reference designator to C1.
+Connected C1 pin 1 to Net-(C1-Pad1).
+Changed C1 value from CAP_GRT188R61H105KE13D_MUR to GRT188R61H105KE13D.
+Add net Net-(C1-Pad1).
+Updated C1 symbol association from  to /5cb38d19-7823-49d6-9a58-b11eef3dd182.
+Updated C1 footprint filters to 'CAP_GRT188R61H105KE13D_MUR CAP_GRT188R61H105KE13D_MUR-M CAP_GRT188R61H105KE13D_MUR-L'.
+Updated C1 fields.
+Updated C1 sheetfile to 'Led_Board.kicad_sch'.
+Updated C1 sheetname to 'Root'.
+Error: Cannot add LED6 (no footprint assigned).
+Error: Cannot add LED7 (footprint 'LED_APA2107SECK/J4-PRV_KNB' not found).
+Error: Cannot add LED5 (no footprint assigned).
+Error: Cannot add LED8 (footprint 'LED_APA2107SECK/J4-PRV_KNB' not found).
+Error: Cannot add LED4 (no footprint assigned).
+Error: Cannot add LED9 (footprint 'LED_APA2107SECK/J4-PRV_KNB' not found).
+Error: Cannot add LED3 (no footprint assigned).
+Error: Cannot add LED10 (footprint 'LED_APA2107SECK/J4-PRV_KNB' not found).
+Error: Cannot add LED2 (no footprint assigned).
+Error: Cannot add LED11 (footprint 'LED_APA2107SECK/J4-PRV_KNB' not found).
+Error: Cannot add LED1 (no footprint assigned).
+Error: Cannot add LED12 (footprint 'LED_APA2107SECK/J4-PRV_KNB' not found).
+
+
+Info: Total warnings: 0, errors: 12.
